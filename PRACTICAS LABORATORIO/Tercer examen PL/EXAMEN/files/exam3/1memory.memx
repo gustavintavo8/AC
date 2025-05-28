@@ -1,0 +1,17 @@
+﻿<Jerarquia>
+  <AnchoPalabra>8</AnchoPalabra>
+  <MemoriaPrincipal>
+    <ModoEscritura>WRITE_BACK</ModoEscritura>
+    <NumeroBloques>1024</NumeroBloques>
+    <PalabrasPorBloque>4</PalabrasPorBloque>
+  </MemoriaPrincipal>
+  <MemoriaCache>
+    <Nivel>
+      <TipoCache>Unificada</TipoCache>
+      <PalabrasPorBloque>4</PalabrasPorBloque>
+      <EstrategiaReemplazo>LRU</EstrategiaReemplazo>
+      <NumeroConjuntos>16</NumeroConjuntos>
+      <NumeroVias>1</NumeroVias>
+    </Nivel>
+  </MemoriaCache>
+</Jerarquia>

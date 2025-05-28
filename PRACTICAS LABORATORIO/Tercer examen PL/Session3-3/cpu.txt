@@ -1,0 +1,4 @@
+Cache 0: L1 data cache,        line size 64,  8-ways,    64 sets, size 32k
+Cache 1: L1 instruction cache, line size 64,  8-ways,    64 sets, size 32k
+Cache 2: L2 unified cache,     line size 64,  4-ways,  1024 sets, size 256k
+Cache 3: L3 unified cache,     line size 64, 12-ways, 12288 sets, size 9216k
